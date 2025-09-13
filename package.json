@@ -1,0 +1,22 @@
+{
+  "name": "viv-geet",
+  "version": "1.0.0",
+  "description": "a simple manager for different type",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "express",
+    "geet",
+    "vivek"
+  ],
+  "author": "Vivek kumar bind",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
